@@ -1,8 +1,8 @@
-# Thing
+# README Generator
 
   ## Description
   
-  undefined
+  This app creates a high quality README file for apps.
 
   ## Table of Contents (Optional)
   
@@ -14,11 +14,11 @@
   
   ## Installation
   
-  the user gets the app from github
+  Users can install this app by downloading code from a repository on Github.
 
   ## Usage
   
-  the app should be used to do stuff
+  This app should be used to create a professional README file.
   
   ## License
   
@@ -26,13 +26,13 @@
   
   ## Contributors
   
-  myself
+  Myself. Github username is Braideyh
 
   ## Tests
   
-  the user should test the app by tring to do stuff
+  Users can test this app by running the app int he command line and waiting for any errors.
 
   ## Questions
 
-  the user can contact me at e@e.com
+  Users can contact myself at braideyhooper@gmail.com
 
