@@ -1,4 +1,4 @@
-# j
+# Thing
 
   ## Description
   
@@ -14,11 +14,11 @@
   
   ## Installation
   
-  j
+  the user gets the app from github
 
   ## Usage
   
-  j
+  the app should be used to do stuff
   
   ## License
   
@@ -26,13 +26,13 @@
   
   ## Contributors
   
-  j
+  myself
 
   ## Tests
   
-  j
+  the user should test the app by tring to do stuff
 
   ## Questions
 
-  j
+  the user can contact me at e@e.com
 
