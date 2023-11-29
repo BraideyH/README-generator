@@ -1,8 +1,8 @@
-# README Generator
+# SVG-logo-maker
 
   ## Description
   
-  This app creates a high quality README file for apps.
+  This is a command line application that will create a simple logo for the user.
 
   ## Table of Contents (Optional)
   
@@ -14,11 +14,11 @@
   
   ## Installation
   
-  Users can install this app by downloading code from a repository on Github.
+  To install this app, the user must download my repository from Github.
 
   ## Usage
   
-  This app should be used to create a professional README file.
+  This app should be used in the command line, generating an image made of one of three shapes- circle, triangle, and square- in any color or hex code color of the user's choice. The user will also be given the choice of displaying up to three letters within the shape which can also be any color of their choice.
   
   ## License
   
@@ -26,13 +26,13 @@
   
   ## Contributors
   
-  Myself. Github username is Braideyh
+  Github username: Braideyh
 
   ## Tests
   
-  Users can test this app by running the app int he command line and waiting for any errors.
+  There is a test file within the library that is used to make sure the application is working. The user can use the 'npm test' command in the integrated terminal to run this test.
 
   ## Questions
 
-  Users can contact myself at braideyhooper@gmail.com
+  Users can find me on Github at Braideyh.
 
